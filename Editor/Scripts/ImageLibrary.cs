@@ -33,7 +33,7 @@ namespace ArchNet.Library.Image
         }
     }
 
-    [CreateAssetMenu(fileName = "NewImageLibrary", menuName = "CasualFantasy/ImageLibrary")]
+    [CreateAssetMenu(fileName = "NewImageLibrary", menuName = "ArchNet/ImageLibrary")]
     public class ImageLibrary : ScriptableObject
     {
         public enum KeyType
