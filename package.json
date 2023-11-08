@@ -1,8 +1,8 @@
 {
   "name": "com.archnet.library.image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Arch Net Library Image",
-  "description": "Image Library is a link between sprite and enum or integer.",
+  "description": "Image Library is a link between sprite and enum.",
   "unity": "2020.1",
   "unityRelease": "0b5",
   "keywords": [
@@ -13,7 +13,7 @@
     "Custom"
   ],
   "author": {
-    "name": "Arch Net",
+    "name": "Louis PAKEL ,ArchNet",
     "email": "archnetmodule@gmail.com"
   }
 }
